@@ -23,7 +23,7 @@ inventory/ └── src/main/java/com/inventory/ ├── dao/ # Database acce
 
 ## 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/inventory.git
+git clone https://github.com/giangel/inventory.git
 2. Import into Eclipse
 1.	Open Eclipse.
 2.	Go to File -> Import -> Maven -> Existing Maven Projects.
