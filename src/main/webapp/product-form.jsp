@@ -3,7 +3,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/functions" prefix="fn" %>
 <%--
 ==========================================================================
-  product-form.jsp  -  StockPro Inventory System
+  product-form.jsp  -  Jare Pharmacy Inventory System
 ==========================================================================
 
   PURPOSE:
@@ -59,7 +59,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <%-- Dynamic page title changes based on add vs edit mode --%>
-    <title>StockPro |
+    <title>Jare Pharmacy |
         <c:choose>
             <c:when test="${formMode == 'edit'}">Edit Product</c:when>
             <c:otherwise>Add New Product</c:otherwise>
@@ -702,7 +702,7 @@
     <a href="${pageContext.request.contextPath}/dashboard" class="brand-link">
         <div class="brand-logo-box"><i class="fas fa-cubes"></i></div>
         <div class="brand-text-wrap">
-            <span class="brand-name">StockPro</span>
+            <span class="brand-name">Jare Pharmacy</span>
             <span class="brand-sub">SME Inventory Hub</span>
         </div>
     </a>

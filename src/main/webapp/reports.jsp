@@ -11,7 +11,7 @@
 %>
 <%--
 ==========================================================================
-  reports.jsp  -  StockPro Inventory System
+  reports.jsp  -  Jare Pharmacy Inventory System
 ==========================================================================
   REQUIRES: ReportServlet to have run first (URL: /reports)
   DO NOT access this JSP directly via reports.jsp - always go via /reports
@@ -71,7 +71,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>StockPro | Reports</title>
+<title>Jare Pharmacy | Reports</title>
 
 <!-- Google Font: Inter -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -275,7 +275,7 @@ table.report-table tr:last-child td{border-bottom:none}
     <a href="<%= ctx %>/dashboard" class="brand-link">
         <div class="brand-logo-box"><i class="fas fa-cubes"></i></div>
         <div class="brand-text-wrap">
-            <span class="brand-name">StockPro</span>
+            <span class="brand-name">Jare Pharmacy</span>
             <span class="brand-sub">SME Inventory Hub</span>
         </div>
     </a>
@@ -525,7 +525,7 @@ table.report-table tr:last-child td{border-bottom:none}
 </div><%-- /content-wrapper --%>
 
 <footer class="main-footer">
-    StockPro Inventory System &copy; <%= java.time.Year.now().getValue() %>
+    Jare Pharmacy Inventory System &copy; <%= java.time.Year.now().getValue() %>
 </footer>
 
 </div><%-- /wrapper --%>

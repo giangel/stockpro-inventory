@@ -36,7 +36,7 @@ String ctx = request.getContextPath();
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>StockPro | Suppliers</title>
+<title>Jare Pharmacy | Suppliers</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link
 	href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
@@ -907,7 +907,7 @@ body {
 					<i class="fas fa-cubes"></i>
 				</div>
 				<div class="brand-text-wrap">
-					<span class="brand-name">StockPro</span> <span class="brand-sub">SME
+					<span class="brand-name">Jare Pharmacy</span> <span class="brand-sub">SME
 						Inventory Hub</span>
 				</div>
 			</a>
@@ -1281,7 +1281,7 @@ body {
 		<%-- /content-wrapper --%>
 
 		<footer class="main-footer">
-			<strong>StockPro Inventory System</strong> - &copy; 2025 Built
+			<strong>Jare Pharmacy Inventory System</strong> - &copy; 2025 Built
 			for Nigerian SMEs
 		</footer>
 	</div>

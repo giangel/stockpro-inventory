@@ -57,7 +57,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>StockPro | Receipt <%= sale.getReceiptNumber() %></title>
+<title>Jare Pharmacy | Receipt <%= sale.getReceiptNumber() %></title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -411,7 +411,7 @@ body{background:#f1f5f9!important;color:#0f172a!important;font-size:13px!importa
     <a href="<%= ctx %>/dashboard" class="brand-link">
         <div class="brand-logo-box"><i class="fas fa-cubes"></i></div>
         <div class="brand-text-wrap">
-            <span class="brand-name">StockPro</span>
+            <span class="brand-name">Jare Pharmacy</span>
             <span class="brand-sub">SME Inventory Hub</span>
         </div>
     </a>
@@ -557,7 +557,7 @@ body{background:#f1f5f9!important;color:#0f172a!important;font-size:13px!importa
                         <i class="fas fa-cubes"></i>
                     </div>
                     <div>
-                        <div class="biz-name">StockPro Store</div>
+                        <div class="biz-name">Jare Pharmacy Store</div>
                         <div class="biz-tag">SME Inventory Management System</div>
                     </div>
                 </div>
@@ -573,7 +573,7 @@ body{background:#f1f5f9!important;color:#0f172a!important;font-size:13px!importa
                     </div>
                     <div class="biz-contact-item">
                         <i class="fas fa-envelope"></i>
-                        store@stockpro.ng
+                        store@JarePharmacy.ng
                     </div>
                 </div>
 
@@ -765,7 +765,7 @@ body{background:#f1f5f9!important;color:#0f172a!important;font-size:13px!importa
                 </div>
                 <p>Thank you for shopping with us!</p>
                 <p>Please retain this receipt for returns &amp; exchanges.</p>
-                <p class="tagline">Powered by StockPro - stockpro.ng</p>
+                <p class="tagline">Powered by Jare Pharmacy - Jare Pharmacy.ng</p>
             </div>
 
         </div><%-- /receipt-card --%>
@@ -940,7 +940,7 @@ body{background:#f1f5f9!important;color:#0f172a!important;font-size:13px!importa
 </div><%-- /content-wrapper --%>
 
 <footer class="main-footer">
-    <strong>StockPro Inventory System</strong>
+    <strong>Jare Pharmacy Inventory System</strong>
     - &copy; 2025 Built for Nigerian SMEs
 </footer>
 </div><%-- /wrapper --%>

@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>StockPro | Inventory Transactions</title>
+    <title>Jare Pharmacy | Inventory Transactions</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -337,7 +337,7 @@ body { background-color: #f1f5f9 !important; color: #0f172a !important; font-siz
     <a href="${pageContext.request.contextPath}/dashboard" class="brand-link">
         <div class="brand-logo-box"><i class="fas fa-cubes"></i></div>
         <div class="brand-text-wrap">
-            <span class="brand-name">StockPro</span>
+            <span class="brand-name">Jare Pharmacy</span>
             <span class="brand-sub">SME Inventory Hub</span>
         </div>
     </a>
@@ -652,7 +652,7 @@ body { background-color: #f1f5f9 !important; color: #0f172a !important; font-siz
      FOOTER
 ================================================================ -->
 <footer class="main-footer">
-    <strong>StockPro</strong> - Inventory Management System
+    <strong>Jare Pharmacy</strong> - Inventory Management System
 </footer>
 
 </div><%-- /wrapper --%>

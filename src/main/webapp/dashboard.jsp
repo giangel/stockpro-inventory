@@ -120,7 +120,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>StockPro | Executive Dashboard</title>
+<title>Jare Pharmacy | Executive Dashboard</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -375,7 +375,7 @@ body{background:#f1f5f9!important;color:#0f172a!important;font-size:13px!importa
     <a href="<%= ctx %>/dashboard" class="brand-link">
         <div class="brand-logo-box"><i class="fas fa-cubes"></i></div>
         <div class="brand-text-wrap">
-            <span class="brand-name">StockPro</span>
+            <span class="brand-name">Jare Pharmacy</span>
             <span class="brand-sub">SME Inventory Hub</span>
         </div>
     </a>
@@ -865,7 +865,7 @@ body{background:#f1f5f9!important;color:#0f172a!important;font-size:13px!importa
 </div><%-- /content-wrapper --%>
 
 <footer class="main-footer">
-    <strong>StockPro Inventory System</strong> -
+    <strong>Jare Pharmacy Inventory System</strong> -
     &copy; 2025 Designed for Nigerian SMEs
 </footer>
 

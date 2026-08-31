@@ -8,7 +8,7 @@
 "%>
 <%--
 ==========================================================================
-  sales.jsp - StockPro Point of Sale (POS) screen
+  sales.jsp - Jare Pharmacy Point of Sale (POS) screen
 ==========================================================================
   Forwarded to by SaleServlet.showPOS() with these request attributes:
     products   List<Product>   all active products (for the grid)
@@ -57,7 +57,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>StockPro | Point of Sale</title>
+<title>Jare Pharmacy | Point of Sale</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -232,7 +232,7 @@ body{background:#f1f5f9!important;color:#0f172a!important;font-size:13px!importa
     <a href="<%= ctx %>/dashboard" class="brand-link">
         <div class="brand-logo-box"><i class="fas fa-cubes"></i></div>
         <div class="brand-text-wrap">
-            <span class="brand-name">StockPro</span>
+            <span class="brand-name">Jare Pharmacy</span>
             <span class="brand-sub">SME Inventory Hub</span>
         </div>
     </a>
@@ -427,7 +427,7 @@ body{background:#f1f5f9!important;color:#0f172a!important;font-size:13px!importa
 </div>
 
 <footer class="main-footer">
-    <strong>StockPro Inventory System</strong> - &copy; 2025 Built for Nigerian SMEs
+    <strong>Jare Pharmacy Inventory System</strong> - &copy; 2025 Built for Nigerian SMEs
 </footer>
 </div>
 

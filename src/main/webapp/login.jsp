@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>StockPro - Sign In</title>
+<title>Jare Pharmacy - Sign In</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -284,7 +284,7 @@ body {
         <div>
             <div class="brand-logo">
                 <div class="brand-logo-box"><i class="fas fa-cubes"></i></div>
-                <div class="brand-name">StockPro <small>SME Inventory Hub</small></div>
+                <div class="brand-name">Jare Pharmacy <small>SME Inventory Hub</small></div>
             </div>
 
             <div class="brand-tagline">Smart inventory for Nigerian businesses</div>
@@ -317,7 +317,7 @@ body {
             </div>
         </div>
 
-        <div class="brand-footer">&copy; 2025 StockPro - Built for Nigerian SMEs</div>
+        <div class="brand-footer">&copy; 2025 Jare Pharmacy - Built for Nigerian SMEs</div>
     </div>
 
     <!-- ── Right: login form ──────────────────────────── -->

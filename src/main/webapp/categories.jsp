@@ -7,7 +7,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>StockPro | Categories</title>
+<title>Jare Pharmacy | Categories</title>
 
 <!-- Google Font: Inter -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -694,7 +694,7 @@ body {
     <a href="<%= request.getContextPath() %>/dashboard" class="brand-link" style="text-decoration:none">
         <div class="brand-logo-box"><i class="fas fa-cubes"></i></div>
         <div class="brand-text-wrap">
-            <span class="brand-name">StockPro</span>
+            <span class="brand-name">Jare Pharmacy</span>
             <span class="brand-sub">SME Inventory Hub</span>
         </div>
     </a>
@@ -1021,7 +1021,7 @@ body {
 </div><!-- /content-wrapper -->
 
 <footer class="main-footer">
-    <strong>&copy; 2025 StockPro</strong> - Built for Nigerian SMEs. All rights reserved.
+    <strong>&copy; 2025 Jare Pharmacy</strong> - Built for Nigerian SMEs. All rights reserved.
 </footer>
 
 </div><!-- /wrapper -->
